@@ -1,10 +1,6 @@
-# HYPERSPACING GUILD
-> HSGuild
+# HYPERSPACING GUILD OF DEVELOPERS
+> A.k.a the HyperGuild
 
 ## Overview
 
-The **Hyperspacing Guild of Developers** is a new kind of organization native of the 21st century **hyperworld**.
-
-
-
-
+The **Hyperspacing Guild of Developers**, or **HyperGuild**, is a new kind of organization native of the 21st century **hyperworld**.
