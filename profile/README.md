@@ -6,9 +6,9 @@
 The **Hyperspacing Guild of Developers**, or **HyperGuild**, is a new kind of organization native of the 21st century **hyperworld**.
 
 ## The Game
-> A.k.a reality
+> A.k.a Reality
 
-Our guild operates in a game called "reality".
+Our guild operates in a game called "Reality".
 
 > [!Tip]  
 > You should try it even if you don't join the Guild, it's a pretty cool game!
@@ -26,5 +26,25 @@ The point of teams is to earn XP faster, to complete objectives otherwise unatta
 
 
 > [!Tip]
-> Even if you don't join the HyperGuild, we recommend you create or join another such guild. This is why the blueprint is publicly shared as open source knowledge: we consider each copycat a win for the model, and we welcome improvements from anywhere and anyone. We believe the structure
+> Even if you don't join the HyperGuild, we recommend you create or join another such guild.
+>
+> This is why our blueprint is publicly shared as open source knowledge (details in "STEAL THIS SPEC" below).
+
+
+
+
+
+# Appendix
+
+
+## A. STEAL THIS SPEC
+> Make your own guild.
+
+> we consider each copycat a win for the model,
+> and we welcome improvements from anywhere and anyone.
+>
+> We believe the structure of Reality should be collectively improved for all players.
+
+
+
 
