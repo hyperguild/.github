@@ -25,5 +25,6 @@ The point of teams is to earn XP faster, to complete objectives otherwise unatta
 
 
 
-
+> [!Tip]
+> Even if you don't join the HyperGuild, we recommend you create or join another such guild. This is why the blueprint is publicly shared as open source knowledge: we consider each copycat a win for the model, and we welcome improvements from anywhere and anyone. We believe the structure
 
